@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Fabric script generates .tgz archive of all in web_static folder.
+Fabric bash script generates .tgz archive of all in web_static folder.
 """
 from fabric.api import local
 from datetime import datetime
